@@ -1,26 +1,21 @@
-# <Module Challenge 1>
+# < Module Challenge 1>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The purpose of this project was to show the important of having clean, readible that is in accordance to accessibility standards. This is important because we want our deployed application optimized for any and all search engines.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Our motivation is "quality first."
 
-## Table of Contents (Optional)
+We built this project to have a reference point of the standard that is required for every build. Quality must always come first.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+The problem (ugly, redundant code) was resolved. Even with 20 lines of notes in the CSS file, I reduced the lines of code from 200 to 152 lines without breaking the application.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+I learned that this is a good model to follow for all future projects and affirmed my belief that quality can always be improved.
+
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+NA
 
 ## Usage
 
