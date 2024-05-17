@@ -14,18 +14,19 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-/*Removed the '." because it is no longer a class*/
+/* Removed the '." because it is no longer a class */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/*Removed the '." because it is no longer a class*/
+/* Removed the '." because it is no longer a class */
 header h1 .seo {
     color: #d9dcd6;
 }
 
-/*Removed the '." because it is no longer a class*/
-header div {
+/* Removed the '." because it is no longer a class */
+/* Changed div to nav */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,12 +34,14 @@ header div {
     font-size: 20px;
 }
 /*Removed the '." because it is no longer a class*/
-header div ul {
+/* Changed div to nav */
+header nav ul {
     list-style-type: none;
 }
 
 /*Removed the '." because it is no longer a class*/
-header div ul li {
+/* Changed div to nav */
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -70,8 +73,8 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-.content {
+/* Changed '.content' to main*/
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
