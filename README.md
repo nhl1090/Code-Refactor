@@ -41,10 +41,10 @@ https://nhl1090.github.io/Code-Refactor/
     - (https://developer.mozilla.org/en-US/docs/Web/CSS/display)
     - (https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
     - (https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-
-    - ()
 - Mimo
     - (https://mimo.org)
+- Open Source Initiative
+    - (https://opensource.org/license/MIT)
 - Stackoverflow
     - (https://stackoverflow.com/)
 - UT Coding Bootcamp GitLab site
@@ -54,4 +54,4 @@ https://nhl1090.github.io/Code-Refactor/
 
 
 ## License
-License is in the repository.
+This project is licensed under the ![MIT license](https://opensource.org/license/MIT).
