@@ -1,4 +1,4 @@
-# < Code Refactor Project>
+# Code Refactor Project
 
 ## Description
 
