@@ -5,6 +5,7 @@ In project we show importantance of having clean, readible code that is aligned 
 
 The problem of redundant code was resolved. Quality must always come first.
 
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -65,7 +66,7 @@ This project is licensed under the ![MIT license](https://opensource.org/license
 
 
 ## Tests
-N/A
+NA
 
 
 ## Questions
