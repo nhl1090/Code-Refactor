@@ -18,7 +18,7 @@ NA
 
 ![Deployed website](https://nhl1090.github.io/Code-Refactor/)
 
-![Screenshot](./assets/images/screenshot)
+![Screenshot](./assets/images/screenshot.png)
 
 
 ## Credits
