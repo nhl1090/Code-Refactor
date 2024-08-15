@@ -1,28 +1,22 @@
 # Code Refactor Project
 
 ## Description
+In project we show importantance of having clean, readible code that is aligned with accessibility standards. This is vital search engine optimization.
 
-The purpose of this project was to show the important of having clean, readible code that is aligned with accessibility standards. This is important because we want our deployed application optimized for any and all search engines.
-
-We built this project to have a reference point of the standard that is required for every build. Quality must always come first.
-
-The problem of redundant code was resolved. 
+The problem of redundant code was resolved. Quality must always come first.
 
 
 ## Installation
-
 NA
 
 
 ## Usage
-
-![Deployed website](https://nhl1090.github.io/Code-Refactor/)
+https://nhl1090.github.io/Code-Refactor/
 
 ![Screenshot](./assets/images/screenshot.png)
 
 
 ## Credits
-
 - Atlassian
     - (https://www.atlassian.com/git)
 - edX
@@ -60,5 +54,4 @@ NA
 
 
 ## License
-
 License is in the repository.
