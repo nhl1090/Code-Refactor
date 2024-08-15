@@ -5,6 +5,13 @@ In project we show importantance of having clean, readible code that is aligned 
 
 The problem of redundant code was resolved. Quality must always come first.
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 NA
@@ -14,6 +21,10 @@ NA
 https://nhl1090.github.io/Code-Refactor/
 
 ![Screenshot](./assets/images/screenshot.png)
+
+
+## License
+This project is licensed under the ![MIT license](https://opensource.org/license/MIT).
 
 
 ## Credits
@@ -53,5 +64,9 @@ https://nhl1090.github.io/Code-Refactor/
     - (https://www.w3schools.com/)
 
 
-## License
-This project is licensed under the ![MIT license](https://opensource.org/license/MIT).
+## Tests
+N/A
+
+
+## Questions
+For any questions, please reach out to me at [nhl1090](https://github.com/nhl1090). Thank you!
