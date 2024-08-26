@@ -1,9 +1,7 @@
 # Code Refactor Project
 
 ## Description
-In project we show importantance of having clean, readible code that is aligned with accessibility standards. This is vital search engine optimization.
-
-The problem of redundant code was resolved. Quality must always come first.
+Refactored a pre-existing website to improve code readability and maintainability by restructuring HTML and CSS files. Enhanced site performance and accessibility through optimized styling, semantic HTML, and streamlined code organization.
 
 
 ## Table of Contents
