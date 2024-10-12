@@ -5,12 +5,17 @@ Refactored a pre-existing website to improve code readability and maintainabilit
 
 
 ## Table of Contents
+- [License](#license)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
+
+## License
+This project is licensed under the ![MIT license](https://opensource.org/license/MIT).
+
 
 ## Installation
 NA
@@ -22,45 +27,33 @@ https://nhl1090.github.io/Code-Refactor/
 ![Screenshot](./assets/images/screenshot.png)
 
 
-## License
-This project is licensed under the ![MIT license](https://opensource.org/license/MIT).
-
-
 ## Contributing
-- Atlassian
-    - (https://www.atlassian.com/git)
-- edX
-    - (https://www.edx.org/)
-- GitHub
-    - (https://docs.github.com/en/get-started/start-your-journey/hello-world)
-    - (https://coding-boot-camp.github.io/full-stack/)
-    - (https://coding-boot-camp.github.io/full-stack/git/getting-started-with-git)
-    - (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-    - (https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
-- GitLab
-    - (https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account)
-- MDN 
-    - (https://developer.mozilla.org/en-US/)
-    - (https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
-    - (https://developer.mozilla.org/en-US/docs/Web/HTML)
-    - (https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
-    - (https://developer.mozilla.org/en-US/docs/Web/CSS)
-    - (https://developer.mozilla.org/en-US/docs/Web/CSS/color)
-    - (https://developer.mozilla.org/en-US/docs/Web/CSS/font)
-    - (https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
-    - (https://developer.mozilla.org/en-US/docs/Web/CSS/display)
-    - (https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-    - (https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-- Mimo
-    - (https://mimo.org)
-- Open Source Initiative
-    - (https://opensource.org/license/MIT)
-- Stackoverflow
-    - (https://stackoverflow.com/)
-- UT Coding Bootcamp GitLab site
-    - (https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-05-2024-U-LOLC)
-- W3 Schools
-    - (https://www.w3schools.com/)
+- [Atlassian](https://www.atlassian.com/)
+    - [Getting Git right](https://www.atlassian.com/git)
+- [edX](https://www.edx.org/)
+- [GitHub Docs](https://docs.github.com/en)
+    - [Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+- [Coding Boot Camp - The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/)
+    - [Getting Started with Git](https://coding-boot-camp.github.io/full-stack/git/getting-started-with-git)
+    - [HTML Cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
+    - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+- [GitLab Docs](https://docs.gitlab.com/)
+    - [Add an SSH key to your GitLab account](https://docs.gitlab.com/ee/user/ssh.html#add-an-ssh-key-to-your-gitlab-account)
+- [MDN](https://developer.mozilla.org/en-US/)
+    - [Attribute](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
+    - [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+    - [Command line crash course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#basic_built-in_terminal_commands)
+    - [CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - [display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+    - [font](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+    - [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - [position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+    - [Selector (CSS))](https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
+    - [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+- [Mimo](https://mimo.org)
+- [Open Source Initiative](https://opensource.org/license/MIT)
+- [Stackoverflow](https://stackoverflow.com/)
+- [W3 Schools](https://www.w3schools.com/)
 
 
 ## Tests
@@ -68,4 +61,4 @@ NA
 
 
 ## Questions
-For any questions, please reach out to me at [nhl1090](https://github.com/nhl1090). Thank you!
+For any inquiries, please visit [nhl1090](https://github.com/nhl1090). Thank you!
