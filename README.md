@@ -51,7 +51,8 @@ https://nhl1090.github.io/Code-Refactor/
     - [Selector (CSS))](https://developer.mozilla.org/en-US/docs/Glossary/CSS_Selector)
     - [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 - [Mimo](https://mimo.org)
-- [Open Source Initiative](https://opensource.org/license/MIT)
+- [Open Source Initiative](https://opensource.org/)
+    -[The MIT License](https://opensource.org/license/MIT)
 - [Stackoverflow](https://stackoverflow.com/)
 - [W3 Schools](https://www.w3schools.com/)
 
